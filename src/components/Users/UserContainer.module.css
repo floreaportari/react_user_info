@@ -1,0 +1,9 @@
+.userContainer {
+  background-color: #fff;
+  border: 1px solid;
+  max-width: 70%;
+  min-height: 140px;
+  margin: 5rem auto;
+  padding: 1.5rem;
+  border-radius: 10px;
+}
